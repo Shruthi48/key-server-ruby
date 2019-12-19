@@ -11,7 +11,7 @@ GEM
       et-orbi (~> 1.1, >= 1.1.8)
       raabro (~> 1.1)
     raabro (1.1.6)
-    rack (2.0.7)
+    rack (2.0.8)
     rspec (3.8.0)
       rspec-core (~> 3.8.0)
       rspec-expectations (~> 3.8.0)
